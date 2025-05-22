@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data (nếu dataset nặng)
+data/*.csv
+
+# Env
+.env
+*.env
