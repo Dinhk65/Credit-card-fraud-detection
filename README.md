@@ -41,7 +41,7 @@ Dữ liệu có tỷ lệ gian lận cực thấp (~0.17%), gây khó khăn cho 
 ## ▶️ Chạy thử project
 ```bash
 # Clone repo
-git clone https://github.com/your-username/credit-card-fraud-detection-random-forest.git
+git clone https://github.com/Dinhk65/credit-card-fraud-detection-random-forest.git
 cd credit-card-fraud-detection-random-forest
 
 # Cài môi trường
