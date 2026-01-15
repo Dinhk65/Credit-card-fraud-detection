@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *.pkl
-
+# Nhưng ngoại lệ: không ignore model.pkl trong streamlit_app
+!streamlit_app/credit_card_fraud_detection_rf.pkl
 # Jupyter
 .ipynb_checkpoints
 
