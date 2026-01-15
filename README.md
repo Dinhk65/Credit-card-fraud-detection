@@ -40,7 +40,7 @@ Dữ liệu có tỷ lệ gian lận cực thấp (~0.17%), gây khó khăn cho 
 
 ## ▶️ Chạy thử project
 ```bash
-# Clone repo trên Colab (chạy trên máy local thì bỏ các dấu ở đầu)
+# Clone repo
 git clone https://github.com/Dinhk65/Credit-card-fraud-detection.git
 cd Credit-card-fraud-detection
 
