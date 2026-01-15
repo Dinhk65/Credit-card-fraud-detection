@@ -40,12 +40,13 @@ Dữ liệu có tỷ lệ gian lận cực thấp (~0.17%), gây khó khăn cho 
 
 ## ▶️ Chạy thử project
 ```bash
-# Clone repo
-git clone https://github.com/your-username/credit-card-fraud-detection-random-forest.git
-cd credit-card-fraud-detection-random-forest
+# Clone repo trên Colab (chạy trên máy local thì bỏ các dấu ở đầu)
+!git clone https://github.com/Dinhk65/Credit-card-fraud-detection.git
+%cd Credit-card-fraud-detection
+
 
 # Cài môi trường
-pip install -r requirements.txt
+!pip install -r requirements.txt
 
 # Chạy app Streamlit
-streamlit run streamlit_app/app.py
+!streamlit run streamlit_app/app.py
